@@ -20,7 +20,9 @@
 
 `git remote add origin https://github.com/Claudemir2572/aprendendo-git.git`
 
-6- Execute o comando
+6- Delete as credenciais do windows para a url github.com
+
+7- Execute o comando
 
 `git add .`
 
